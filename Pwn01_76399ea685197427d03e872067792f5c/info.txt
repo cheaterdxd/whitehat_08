@@ -1,2 +1,0 @@
-nc 45.77.38.41 5556
-Flag in /home/loop/flag
